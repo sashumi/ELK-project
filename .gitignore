@@ -1,16 +1,15 @@
 # Local .terraform directories
-git.sh
+*git.sh*
 .idea
 *.terraform*
-dev_docker/docker-compose.yml
-dev_docker/git-bash.sh
+*docker-compose.yml*
 *pytest_inventory*
 *jenkins_inventory*
 *vault_password.txt*
 *1-backend.yml*
 *config.json*
 *password.txt*
-dev_docker/getset_rsa_keys.sh
+*getset_rsa_keys.sh*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
